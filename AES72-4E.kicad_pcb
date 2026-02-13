@@ -189,45 +189,6 @@
 				)
 			)
 		)
-		(property "Mouser" "568-NE8FAH"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "1f13ca06-8b75-4ab2-9b3c-6f8f466119e8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Neutrik"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dc1b1eb9-f42b-46d1-ab2c-1b4b69b2f05a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Product" "NE8FAH"
-			(at 0 0 90)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c786c000-ae44-4552-9803-8429d572b09c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/a168b3ea-dea7-420c-9c92-20f2e99c6edc")
 		(sheetname "/")
 		(sheetfile "AES72-4E.kicad_sch")
@@ -240,7 +201,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "ca0e544a-02e6-4abf-a623-c849b2a3f23f")
+			(uuid "818278e3-b8a3-4be9-bf6b-ce4ff6f743fa")
 		)
 		(fp_line
 			(start 12.5 22)
@@ -250,7 +211,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "3c1292d8-03ed-41e6-b1c9-78a75f46c03d")
+			(uuid "ec774e00-66f4-45e8-89e6-b9794140c687")
 		)
 		(fp_line
 			(start 11.5 22)
@@ -260,7 +221,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "22e9007b-f78f-4f77-bf84-8e9abaff7e97")
+			(uuid "152bb27b-6bd7-4300-ac1e-84953484d14a")
 		)
 		(fp_line
 			(start -12.5 22)
@@ -270,7 +231,7 @@
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "3b07dd1f-4efc-45b5-95dd-9c8fd2e234e8")
+			(uuid "c304b06f-2cb6-4de3-b99d-e93f25ee92c4")
 		)
 		(fp_rect
 			(start -12 -2)
@@ -281,7 +242,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "36ccf3d0-a802-4ea5-9df8-5725048c60eb")
+			(uuid "a5f328b1-9829-436b-8e5b-a3deef7d9a81")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 -1 90)
@@ -299,14 +260,14 @@
 			(size 1.55 1.55)
 			(drill 1.55)
 			(layers "*.Mask")
-			(uuid "d8e810e2-dde6-4a38-bc9b-c91fac185c39")
+			(uuid "eb27c08d-5963-46dc-b10c-f188f14c0b79")
 		)
 		(pad "" np_thru_hole circle
 			(at 5.08 3.81 90)
 			(size 1.55 1.55)
 			(drill 1.55)
 			(layers "*.Mask")
-			(uuid "438cd5ec-b7f4-4173-a28e-ccabe6a8fd76")
+			(uuid "586b97ea-cbe0-4887-875a-33c01774edae")
 		)
 		(pad "1" thru_hole circle
 			(at 4.44 14.61 90)
@@ -459,7 +420,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.neutrik.com/en/product/nsj12hc"
+		(property "Datasheet" ""
 			(at -20.48 -8.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -472,7 +433,7 @@
 				)
 			)
 		)
-		(property "Description" "Stacking Jacks, Stereo dual jack, full nose"
+		(property "Description" ""
 			(at -20.48 -8.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -481,45 +442,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser" "568-NSJ12HC"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2a7510f8-b202-44fe-b3e4-9595c6e9b7e5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Neutrik"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4e1f3008-7742-4ffd-8837-1b2bc58bf93f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Product" "NSJ12HC"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "36c9acc8-51d1-4dd4-9805-be70f221273e")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -537,7 +459,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "44acf670-a631-408a-9c08-fd7f11f3402b")
+			(uuid "9b42e7b0-f91d-40b8-ad67-802f3869e03d")
 		)
 		(fp_line
 			(start -24.3 -9.8)
@@ -547,7 +469,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "48e1af18-8202-468c-ba10-19fb108ea5c2")
+			(uuid "6978240c-88be-406d-adb6-0caf766c85ee")
 		)
 		(fp_line
 			(start -24.3 7.2)
@@ -557,7 +479,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9cdbf091-f03d-41cb-90a5-436dc9abb347")
+			(uuid "a2d57ecc-4315-4b92-826b-484ad29ad4a0")
 		)
 		(fp_line
 			(start 0 -9.8)
@@ -567,7 +489,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3e13c6bc-20ac-4dd7-8b68-80ed817d7f81")
+			(uuid "6f545239-46a8-4bcd-a849-838dee733890")
 		)
 		(fp_line
 			(start 0 4.475)
@@ -577,7 +499,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7487b3cc-2779-4eea-8f88-d922c27676de")
+			(uuid "fc96a100-b4bf-43f0-ae53-4970244e905b")
 		)
 		(fp_line
 			(start 0 7.2)
@@ -587,7 +509,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2e0983a5-a448-44e0-ad42-a4c2d9506a31")
+			(uuid "2bc13bc6-fba6-43d7-a7f5-64af7ae6d6d3")
 		)
 		(fp_line
 			(start 8.6 -4.475)
@@ -597,7 +519,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "af6e9123-e94a-41ab-a1e8-86794c66cd22")
+			(uuid "cdc06f31-ef95-4283-bcc3-82633c7f43df")
 		)
 		(fp_line
 			(start 8.6 4.475)
@@ -607,7 +529,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "6750e7a4-097b-4635-b603-a6684c67521e")
+			(uuid "f917e170-1c52-4548-8de2-842e36b15445")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.5 0 0)
@@ -777,7 +699,7 @@
 			(uuid "9ee0f231-5232-4569-b6ea-201fd61e8790")
 		)
 		(embedded_fonts no)
-		(model "../../../versioduo.kicad/3dmodels/V2_Connector_Audio.3dshapes/NSJ12HC.step"
+		(model "../../3dmodels/V2_Connector_Audio.3dshapes/NSJ12HC.step"
 			(offset
 				(xyz -0.28 0 23)
 			)
@@ -819,7 +741,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.neutrik.com/en/product/nsj12hc"
+		(property "Datasheet" ""
 			(at -20.48 -8.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -832,7 +754,7 @@
 				)
 			)
 		)
-		(property "Description" "Stacking Jacks, Stereo dual jack, full nose"
+		(property "Description" ""
 			(at -20.48 -8.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -841,45 +763,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser" "568-NSJ12HC"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bd97bdf9-b7bb-40a7-abb1-051e74101dff")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer" "Neutrik"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3588fc5b-881d-4d01-8376-80549143fee8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Product" "NSJ12HC"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "70d70feb-2847-4c65-9dc3-87f9f44bcbef")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -897,7 +780,7 @@
 				(type solid)
 			)
 			(layer "Dwgs.User")
-			(uuid "b0e61606-ce46-4de9-b5f9-0fbb42124727")
+			(uuid "49a1f7a5-430f-47f1-a04b-6c310b897c3e")
 		)
 		(fp_line
 			(start -24.3 -9.8)
@@ -907,7 +790,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "429da610-3b9d-4143-b554-5e87a46d9cae")
+			(uuid "e5f4c9f9-35f8-4c5a-a4ab-8c5352958dee")
 		)
 		(fp_line
 			(start -24.3 7.2)
@@ -917,7 +800,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "97ce5de3-7c3d-4e5e-bcf4-c7ece9bad067")
+			(uuid "6f0f008c-23ac-46da-abaa-694d326d4ce3")
 		)
 		(fp_line
 			(start 0 -9.8)
@@ -927,7 +810,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "aab40fe3-c9b6-41b8-92ea-94856d745052")
+			(uuid "2d1be12d-26a5-42d6-a8c6-ee770baf23aa")
 		)
 		(fp_line
 			(start 0 4.475)
@@ -937,7 +820,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5493a0f2-7504-42d6-a3fa-6f9cfc306d1d")
+			(uuid "c9cf8bcd-692c-4612-8c4a-9bf9f977f5a7")
 		)
 		(fp_line
 			(start 0 7.2)
@@ -947,7 +830,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "13fcd24e-e95e-4e19-bd29-842635df1347")
+			(uuid "946cd16c-1ca2-4e65-a58c-a18a643862a0")
 		)
 		(fp_line
 			(start 8.6 -4.475)
@@ -957,7 +840,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "3e0f8ee5-705a-4d29-8817-96527d435c10")
+			(uuid "a7cea269-dd63-4092-8c22-858821c023e3")
 		)
 		(fp_line
 			(start 8.6 4.475)
@@ -967,7 +850,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "501d6fa3-1402-48c7-807c-90842bb223ee")
+			(uuid "9a2cdf22-c03f-4564-870b-447e5fec3f4b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at -12.5 0 0)
@@ -1137,7 +1020,7 @@
 			(uuid "a6d6a045-eb75-44c6-84c1-771e3f4721b8")
 		)
 		(embedded_fonts no)
-		(model "../../../versioduo.kicad/3dmodels/V2_Connector_Audio.3dshapes/NSJ12HC.step"
+		(model "../../3dmodels/V2_Connector_Audio.3dshapes/NSJ12HC.step"
 			(offset
 				(xyz -0.28 0 23)
 			)
@@ -1223,7 +1106,7 @@
 			)
 			(fill yes)
 			(layer "B.Cu")
-			(uuid "c9da9dca-519a-4e8f-87d3-3857193e714f")
+			(uuid "c5ca462d-443f-45da-8adc-d81708ff3e1f")
 		)
 		(fp_poly
 			(pts
@@ -1237,7 +1120,7 @@
 			)
 			(fill yes)
 			(layer "B.Cu")
-			(uuid "791f5ff5-48f1-4f0b-880d-5f4a4e6b300f")
+			(uuid "8fea3187-5a04-4dc6-b10b-541ee59965eb")
 		)
 		(fp_poly
 			(pts
@@ -1259,7 +1142,7 @@
 			)
 			(fill yes)
 			(layer "B.Cu")
-			(uuid "cfd5bceb-cf8e-4f55-9a4e-008805e16213")
+			(uuid "9128374e-a265-467c-b012-df394e169cbb")
 		)
 		(fp_poly
 			(pts
@@ -1273,7 +1156,7 @@
 			)
 			(fill yes)
 			(layer "B.Mask")
-			(uuid "7bb7f451-3f91-402c-87ed-9d23ee4f79ad")
+			(uuid "14d084d2-1b1f-4938-aabe-b4795654224a")
 		)
 		(fp_poly
 			(pts
@@ -1287,7 +1170,7 @@
 			)
 			(fill yes)
 			(layer "B.Mask")
-			(uuid "f0395f32-e20a-427d-bdd5-fcd91fa5d548")
+			(uuid "fc4cad8b-e3ec-4e3c-ad50-6ed69a0eaeee")
 		)
 		(fp_poly
 			(pts
@@ -1309,13 +1192,13 @@
 			)
 			(fill yes)
 			(layer "B.Mask")
-			(uuid "b883f0d6-e50c-4105-aff0-236c2d661789")
+			(uuid "f49f13d4-db51-42d2-afa3-055d23ae3043")
 		)
 		(zone
 			(net 0)
 			(net_name "")
 			(layer "B.Cu")
-			(uuid "af1de061-df67-4f17-806e-7c50483c93fa")
+			(uuid "7c5b60b1-a617-4539-9c7f-4a7f517a9807")
 			(hatch edge 0.508)
 			(connect_pads
 				(clearance 0)
@@ -1346,7 +1229,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "V2_Production:Order_Number"
+	(footprint "V2_Production:Revision"
 		(layer "B.Cu")
 		(uuid "b0c0b012-8271-4913-bddb-57a5e33624ca")
 		(at 64.5 98.707107 90)
@@ -1364,7 +1247,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Order_Number"
+		(property "Value" "~"
 			(at 0 -2.27 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -1409,27 +1292,29 @@
 		(path "/7eb06b9d-d894-478a-bc35-8590f2ab48d6")
 		(sheetname "/")
 		(sheetfile "AES72-4E.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
-		(fp_rect
-			(start -7 0.75)
-			(end 7 -0.75)
-			(stroke
-				(width 0.05)
-				(type default)
-			)
-			(fill no)
-			(layer "B.CrtYd")
-			(uuid "e4d857f6-95e8-47dc-8767-3e8b84fd644e")
-		)
-		(fp_text user "${Order-Number}"
+		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+		(fp_text user "${REVISION} (${ISSUE_DATE})"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.SilkS")
-			(uuid "287ba9d7-b62e-420b-9638-2e352374f6b1")
+			(uuid "53eb2c32-fd2a-4446-8ca1-d41542421b82")
 			(effects
 				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
+					(size 0.75 0.75)
+					(thickness 0.1)
+				)
+				(justify mirror)
+			)
+		)
+		(fp_text user "${REVISION} (${ISSUE_DATE})"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(uuid "5ff7eb4a-ff0d-444c-8bf7-d487c1460b1d")
+			(effects
+				(font
+					(size 0.75 0.75)
+					(thickness 0.1)
 				)
 				(justify mirror)
 			)
